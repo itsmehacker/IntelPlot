@@ -28,13 +28,13 @@ php -S 127.0.0.1:8080
 
 For Apache Server 
 
-*Kali Limux
-  *mv IntelPlot var/www/http/
-  *ervice start apache2
+* Kali Limux
+  * mv IntelPlot var/www/http/
+  * service start apache2
 
-*Arch Linux
-  *mv IntelPlot /srv/httpd/www
-  *systemctl start httpd
+* Arch Linux
+  * mv IntelPlot /srv/httpd/www
+  * systemctl start httpd
 
 
 ```
