@@ -7,7 +7,9 @@
   <img src="https://img.shields.io/badge/-Tor-green.svg">
   <h4 align="center">OSINT Tool to Mark Points on Offline Map</h4>
 </p>
-
+<p align="center">
+  <img src="https://i.imgur.com/w5LblLy.png?1">
+</p>
 ## Tested On
 
 * Kali Linux 2019.2
