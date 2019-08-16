@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/w5LblLy.png?1">
+  <img src="https://i.imgur.com/PimU00p.jpg?1">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/OSINT-red.svg?style=plastic">
