@@ -23,8 +23,8 @@
 git clone https://github.com/itsmehacker/IntelPlot.git
 
 For Php Server 
-cd IntelPlot
-php -S 127.0.0.1:8080
+  * cd IntelPlot
+  * php -S 127.0.0.1:8080
 
 For Apache Server 
 
