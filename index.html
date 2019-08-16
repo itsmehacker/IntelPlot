@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>IntelPlot</title>
+<link rel="icon" href="favicon.png" type="image/gif" sizes="16x16">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet-geocoder/0.0.1-beta.5/esri-leaflet-geocoder.css">
+<link rel="stylesheet" href="https://xguaita.github.io/mtig-js/libs/draw/leaflet.draw.css">
+<script src="https://unpkg.com/leaflet@latest/dist/leaflet.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@0.7.7/dist/leaflet.css">
+<link rel="stylesheet" href="../css/map.css">
+</head>
+<body>
+    <div class="wrapper"><div id="map">
+      <div class="box">
+        <form class="form-box">
+          <label style="margin-right: 9px;" for="latitude">Latitude:</label>
+          <input class="form-input" id="latitude" type="text" />
+          <p></p>
+          <label for="longitude">Longitude:</label>
+          <input class="form-input" id="longitude" type="text" />
+          <p></p>
+          <center>
+          <input class="form-button" type="button" value="Jump there" onClick="updateLatLng(document.getElementById('latitude').value,document.getElementById('longitude').value,1)">
+        </center>
+        </form>
+      </div>
+      <div class="hd"><span>intelplot - Created by : <a href="https://github.com/itsmehacker/intelplot">Hacker Destination</a></span></div>
+    </div></div>
+<div class='pointer'></div>
+<script src="https://unpkg.com/leaflet@0.7.7/dist/leaflet.js"></script>
+<script src="https://unpkg.com/togeojson@0.14.2"></script>
+<script src="https://unpkg.com/leaflet-filelayer@0.6.0"></script>
+<script src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet/0.0.1-beta.5/esri-leaflet.js"></script>
+<script src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet-geocoder/0.0.1-beta.5/esri-leaflet-geocoder.js"></script>
+<script src="../js/main.js"></script>
+<script src="https://unpkg.com/togeojson@0.14.2"></script>
+</body>
+</html>
+
+<iframe src="https://giphy.com/embed/wgHY9nSrlTMt2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/globe-wgHY9nSrlTMt2">via GIPHY</a></p>
