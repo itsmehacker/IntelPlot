@@ -3,8 +3,6 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/OSINT-red.svg?style=plastic">
-  <img src="https://img.shields.io/badge/Arc-Linux-red.svg">
-  <img src="https://img.shields.io/badge/-Tor-green.svg">
   <h4 align="center">OSINT Tool to Mark Points on Offline Map</h4>
 </p>
 <p align="center">
