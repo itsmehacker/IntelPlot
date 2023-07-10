@@ -9,7 +9,7 @@
   <img src="https://i.imgur.com/w5LblLy.png?1">
 </p>
 
-## Tested On
+# Tested On
 
 * Kali Linux 2019.2
 * Windows
@@ -36,7 +36,6 @@ For Apache Server
 * Arch Linux
   * mv IntelPlot /srv/httpd/www
   * systemctl start httpd
-
 
 ```
 ## Features
